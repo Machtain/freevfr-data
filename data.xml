@@ -15,7 +15,8 @@
         <Announce color="#c42525" expiration="2026-09-14T08:45:00Z">
             <Language id="fr">
                 <Title>Test</Title>
-                <Message>Test de langue.\nhttps://perdu.com/</Message>
+                <Message>Test de langue.
+https://perdu.com/</Message>
             </Language>
             <Language id="en">
                 <Title>Test</Title>
