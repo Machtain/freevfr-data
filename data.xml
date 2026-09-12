@@ -14,10 +14,10 @@
     <Announces>
         <Announce id="test" color="#128512" expiration="2026-09-14T08:45:00Z">
             <Language id="fr">
-                <Title>Test</Title>
+                <Title><b>Test</b></Title>
                 <Message>Test de langue.
-Oui.
-https://perdu.com/</Message>
+<size value="20"><u>Oui.</u></size>
+Texte <b>gras</b>, <s>rayé</s>, <i>italique</i>, <color value="#FF0000">en rouge</color> et un <a href="http://perdu.com">lien</a>.</Message>
             </Language>
             <Language id="en">
                 <Title>Test</Title>
