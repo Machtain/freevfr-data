@@ -12,7 +12,7 @@
         <Airac cycle="2601" status="active" crc32="20E1A5DE" aixm="https://raw.githubusercontent.com/syndrome5/freevfr-data/refs/heads/main/airacs/aixm_2601.xml" />
     </Airacs>
     <Announces>
-        <Announce color="#c42525" expiration="2026-09-14T08:45:00Z">
+        <Announce id="test" color="#c42525" expiration="2026-09-14T08:45:00Z">
             <Language id="fr">
                 <Title>Test</Title>
                 <Message>Test de langue.
@@ -23,7 +23,7 @@ https://perdu.com/</Message>
                 <Message>Test of language.</Message>
             </Language>
         </Announce>
-        <Announce color="#FFCB5C" expiration="2026-09-14T08:45:00Z">
+        <Announce id="test2" color="#FFCB5C" expiration="2026-09-14T08:45:00Z">
             <Language id="fr">
                 <Title>Test2</Title>
                 <Message>Test2 de langue.</Message>
