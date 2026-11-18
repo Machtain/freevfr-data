@@ -1,6 +1,7 @@
 <FreeVFR>
-    <Georef cycle="2610" crc32="8FD61698" xml="https://raw.githubusercontent.com/Machtain/freevfr-data/refs/heads/main/vac_georef.xml" />
+    <Georef cycle="2611" crc32="C41AA6CD" xml="https://raw.githubusercontent.com/Machtain/freevfr-data/refs/heads/main/vac_georef.xml" />
     <Airacs>
+        <Airac cycle="2612" status="active" crc32="8BE1DC61" aixm="https://raw.githubusercontent.com/Machtain/freevfr-data/refs/heads/main/airacs/aixm_2612.xml"/>
         <Airac cycle="2611" status="active" crc32="888E82B2" aixm="https://raw.githubusercontent.com/Machtain/freevfr-data/refs/heads/main/airacs/aixm_2611.xml"/>
         <Airac cycle="2610" status="active" crc32="DB9A02B6" aixm="https://raw.githubusercontent.com/Machtain/freevfr-data/refs/heads/main/airacs/aixm_2610.xml"/>
         <Airac cycle="2609" status="active" crc32="10535808" aixm="https://raw.githubusercontent.com/Machtain/freevfr-data/refs/heads/main/airacs/aixm_2609.xml"/>
